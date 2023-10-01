@@ -1,0 +1,76 @@
+{margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    }
+    
+    .B{margin-left: 100px;
+    margin-top: 100px;
+    border: 3px solid;
+    width: 950px;
+    height: 540px;
+    border-color:white ;
+    background-color:white;}
+    
+    .A h1{margin-left: 52%;
+    padding-top: 20px;}
+    
+    .A img {width:368px;
+    height: 494px;
+    float: left; 
+    margin-right: 40px;
+    margin-left: 25px;
+    margin-bottom: 50px;}
+        
+    .y button{background-color: rgba(0, 0, 0, 0.751);
+    color: aliceblue;
+    width: 170px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 17%;
+    margin-top: 33px;}
+    
+    .A p{border-right-width: 300px;
+    margin-top: 35px;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.708);}
+    
+    body{display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("https://filearmy.s3.amazonaws.com/2017/05/02/k44HbSn.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+    
+    .A input{border: none;
+    background-color: rgb(238, 240, 241);
+    cursor: pointer;
+    font-size: 17px;
+    border-bottom: 2px solid #adadad;}
+    
+    button:active {background-color: rgb(9, 9, 252);}
+    input:placeholder-shown {background-color: white;}
+    
+    .r input{border: none;
+    background-color: white(238, 240, 241);
+    cursor: pointer;
+    font-size: 17px;
+    width: 45%;
+    border-bottom: 2px solid #adadad;
+    margin-top: 21px;}
+    
+    .t input{border: none;
+    background-color: white(238, 240, 241);
+    cursor: pointer;
+    font-size: 17px;
+    width: 45%;
+    border-bottom: 2px solid #adadad;
+    margin-top: 22px;
+    color: white;}
+    
+    .e {margin-top: 21px;}
+    .e input{cursor: pointer;}
+    
+    
+   
